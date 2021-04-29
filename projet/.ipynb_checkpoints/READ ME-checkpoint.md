@@ -1,4 +1,4 @@
-## Deadline 
+    ## Deadline 
 
 Avant jeudi 19 midi - choisir le dataset et la problématique
 A rendre avant vendredi 30 Avril 23h59
@@ -47,6 +47,8 @@ dataset : kaggle / paperwithcode / google dataset research
     - Faire des hypothèses
 
 Note :
+
 scatterplot = données discrète (tous les diagramme avec des points)
 Nuage de point = rendre toutes les données discrète. Pas toujours pertinent quand on remarque qu'on peut relier les points
 
+Prendre en considération les valeurs qui paraissent abérente si elle représente plus de 5% de l'échantillon
